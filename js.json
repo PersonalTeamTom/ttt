@@ -1,1 +1,38 @@
-
+[
+    {
+      "id": 1,
+      "username" : "tommybooy",
+      "name" : "Tom",
+      "Hobby" : "Bike"
+    },
+    {
+        "id": 2,
+      "username" : "TTest",
+      "name" : "Test",
+      "Hobby" : "Test things"
+    },
+    {
+        "id": 3,
+      "username" : "Set",
+      "name" : "Seat",
+      "Hobby" : "Set tings up"
+    },
+    {
+        "id": 4,
+      "username" : "Notthing",
+      "name" : "G",
+      "Hobby" : "Notthing"
+    },
+    {
+        "id": 5,
+      "username" : "Anonymous",
+      "name" : "n/a",
+      "Hobby" : "n/a"
+    },
+    {
+        "id": 6,
+      "username" : "TRT",
+      "name" : "n/a",
+      "Hobby" : "n/a"
+    }
+  ]
